@@ -1,0 +1,22 @@
+{
+    "name": "monokai-light-mix",
+    "displayName": "Monokai/Light Mix",
+    "description": "Monokai Editor with Light Workbench",
+    "version": "0.0.1",
+    "publisher": "codeon",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai/Light Mix",
+                "uiTheme": "vs",
+                "path": "./themes/MonokaiLight Mix-color-theme.json"
+            }
+        ]
+    }
+}
